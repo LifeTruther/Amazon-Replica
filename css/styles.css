@@ -1,0 +1,95 @@
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    padding:20px;
+}
+
+
+.logo-img{
+    display:block;
+    margin:0 auto;
+}
+
+.center-span{
+    text-align:center;
+    margin:0 auto;
+    text-align: left;
+}
+
+.row{
+    border-bottom: solid 1px lightgray;
+}
+
+.new{
+    text-align: center;
+    font-size: 90%;
+    color:grey;
+    margin-top:10px;
+} 
+
+.footer{
+    
+}
+
+
+
+button{
+    padding-left:100px;
+    padding-right:100px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    font-size:90%;
+}
+
+fieldset{
+    width: 75%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 20px 25px; 
+    margin-bottom: 20px;
+    margin:0px;
+}
+
+fieldset label{
+    font-size: 85%;
+    font-weight: 400%;
+}
+
+form input{
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 25px;
+}
+
+form input[type="submit"]{
+    background-color: #f7c548;
+    font-size: 90%;
+}
+
+a{
+    text-decoration: none;
+}
+
+table, th, td{
+    border:none;
+}
+
+.table{
+    font-size: 70%;
+    margin:auto;
+    width:40%;
+    border:none
+}
+
+#FP{
+    float: right;    
+}
+
+</style>
