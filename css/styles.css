@@ -85,7 +85,9 @@ table, th, td{
     font-size: 70%;
     margin:auto;
     width:40%;
+    max-width: 400px;
     border:none
+    
 }
 
 #FP{
